@@ -50,4 +50,5 @@ This is a Machine Learning based Resume Screening System that ranks candidates f
 - **Pandas**
 
 📸 Application Screenshot
+
 ![alt text](assets/resume_screening.png)
