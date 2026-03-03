@@ -48,3 +48,9 @@ This is a Machine Learning based Resume Screening System that ranks candidates f
 - **spaCy**
 - **Scikit-learn**
 - **Pandas**
+
+## Author
+Aravind
+
+📸 Application Screenshot
+![alt text](assets/resume_screening.png)
